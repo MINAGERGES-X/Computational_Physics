@@ -1,0 +1,52 @@
+Enter the interval [a, b] for the Bisection Method: Iteration	Current Root Estimate
+1		-1.500000
+2		-1.750000
+3		-1.875000
+4		-1.937500
+5		-1.906250
+6		-1.921875
+7		-1.914062
+8		-1.917969
+9		-1.919922
+10		-1.918945
+11		-1.918457
+12		-1.918701
+13		-1.918823
+14		-1.918762
+15		-1.918732
+16		-1.918747
+17		-1.918739
+18		-1.918736
+19		-1.918734
+20		-1.918733
+Bisection method root: -1.918733
+Enter three initial guesses for Newton's Method: Initial guess 1: -2.000000
+Initial guess 2: -1.000000
+Initial guess 3: 0.500000
+Iteration	Current Root Estimate
+1		-1.923518
+2		-1.918754
+3		-1.918734
+4		-1.918734
+Newton's method root: -1.918734
+Iteration	Current Root Estimate
+1		-0.988618
+2		-0.988692
+3		-0.988692
+Newton's method root: -0.988692
+Iteration	Current Root Estimate
+1		0.663376
+2		0.653242
+3		0.653220
+4		0.653220
+Newton's method root: 0.653220
+Enter two initial guesses for Secant Method (x0 and x1): Iteration	Current Root Estimate
+1		-1.099363
+2		-0.987807
+3		-0.988759
+4		-0.988692
+Secant method root: -0.988692
+Brute force method in interval [-2.000000, 1.000000] with step size 0.010000:
+Root found: x = 		-1.915000
+Root found: x = 		-0.985000
+Root found: x = 		0.655000
